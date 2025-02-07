@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='http://i.imgur.com/CodepathMail - Imgur.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/5VG4eKy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
